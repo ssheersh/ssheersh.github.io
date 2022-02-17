@@ -1,3 +1,8 @@
+layout: page
+title: "English Project: The Use of Social Media in Driving Change
+"
+permalink: /eng_pro/
+
 # The Use of Social Media in Driving Change
 
 This is the project folder for our English project!
