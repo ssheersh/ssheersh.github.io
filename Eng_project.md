@@ -1,7 +1,7 @@
-layout: page
+<!-- layout: page
 title: "English Project: The Use of Social Media in Driving Change
 "
-permalink: /Eng_project/
+permalink: /Eng_project/ -->
 
 # The Use of Social Media in Driving Change
 
