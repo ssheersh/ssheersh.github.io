@@ -1,7 +1,7 @@
 layout: page
 title: "English Project: The Use of Social Media in Driving Change
 "
-permalink: /eng_pro/
+permalink: /Eng_project/
 
 # The Use of Social Media in Driving Change
 
