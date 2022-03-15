@@ -1,8 +1,12 @@
 <<<<<<< HEAD:docs/Eng_project.md
+<<<<<<< HEAD:docs/Eng_project.md
 <!-- layout: page
+=======
+layout: page
+>>>>>>> parent of 42faa34 (Update Eng_project.md):Eng_project.md
 title: "English Project: The Use of Social Media in Driving Change
 "
-permalink: /Eng_project/ -->
+permalink: /Eng_project/
 
 =======
 >>>>>>> parent of d90759e (Update Eng_project.md):Eng_project.md
