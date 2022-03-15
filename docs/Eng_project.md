@@ -1,8 +1,11 @@
+<<<<<<< HEAD:docs/Eng_project.md
 <!-- layout: page
 title: "English Project: The Use of Social Media in Driving Change
 "
 permalink: /Eng_project/ -->
 
+=======
+>>>>>>> parent of d90759e (Update Eng_project.md):Eng_project.md
 # The Use of Social Media in Driving Change
 
 This is the project folder for our English project!
