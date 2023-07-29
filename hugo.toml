@@ -11,6 +11,7 @@ description = "Portfolio Website"
 keywords = "protfolio, personal, blog"
 avtarURL = "images/MLT.svg"
 colorScheme = "dark"
+math = true
 
 [taxonomies]
 category = "categories"
@@ -35,6 +36,20 @@ name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 3
 url = "https://www.linkedin.com/in/samyak-sheersh-8bb852192/"
+
+[[params.social]]
+name = "mail"
+icon = "fa fa-2x fa-envelope"
+weight = 4
+url = "mailto:samyakshirsh1234@gmail.com"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 5
+url = "https://www.instagram.com/thesmartestnoob"
+
+
 
 [[languages.en.menu.main]]
 name = "About"
