@@ -1,3 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ssheersh.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Samyak Sheersh'
+theme = 'ananke'
+
+[params]
+twitter = 'https://twitter.com/SamyakSheersh'
+linkedin = 'https://www.linkedin.com/in/samyak-sheersh-8bb852192/'
+github = 'github.com/ssheersh'
