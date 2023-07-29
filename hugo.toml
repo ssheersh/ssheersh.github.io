@@ -1,10 +1,53 @@
 baseURL = 'https://ssheersh.github.io'
 languageCode = 'en-us'
 title = 'Samyak Sheersh'
-theme = 'ananke'
+theme = 'hugo-coder'
 resourceDir = '../reosources'
 
+
 [params]
-twitter = 'https://twitter.com/SamyakSheersh'
-linkedin = 'https://www.linkedin.com/in/samyak-sheersh-8bb852192/'
-github = 'github.com/ssheersh'
+author = "Samyak Sheersh"
+description = "Portfolio Website"
+keywords = "protfolio, personal, blog"
+avtarURL = "images/MLT.svg"
+colorScheme = "dark"
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/ssheersh"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 2
+url = "https://twitter.com/SamyakSheersh"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 3
+url = "https://www.linkedin.com/in/samyak-sheersh-8bb852192/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Posts"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 3
+url = "contact/"
+
